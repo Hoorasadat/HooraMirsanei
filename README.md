@@ -7,9 +7,9 @@
 </div>
 <br/>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
-    <!-- <img align="right" width="48%"  align="center"
+    <img align="right" width="48%"
         src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
-    /> -->
+    />
     <p align="left" style="width: 48%;" >
         <ul>
             <li>
