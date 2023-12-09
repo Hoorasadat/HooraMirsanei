@@ -1,4 +1,4 @@
-<img width="50%" height="50%" src="./img/gitText.gif" alt="Hoora's Gif">
+<img src="./img/gitText.gif" alt="Hoora's Gif">
 
 <br/>
 
