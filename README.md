@@ -13,7 +13,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
     <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
         <img align="right" width="400"  align="center"
-            src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
+            src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
         />
         <p align="left" style="width: 48%;">
             - 🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
