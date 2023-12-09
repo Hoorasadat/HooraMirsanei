@@ -8,34 +8,38 @@
 
 <br/>
 
-<img align="right" width="400"  align="center"
-    src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
-/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img align="right" width="400"  align="center"
+        src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
+    />
+    <p align="left">
+        - I’m currently working on [my new portfolio](https://github.com/Hoorasadat/hoora-portfolio)
 
-<p align="left">
+        - I’m well experienced with **React**
 
-    - I’m currently working on [my new portfolio](https://github.com/Hoorasadat/hoora-portfolio)
+        - I’m well informed about **ASP.NET Core MVC**
 
-    - I’m well experienced with **React**
+        - I'm practicing **Bootstrap**
 
-    - I’m well informed about **ASP.NET Core MVC**
+        - My portfolio is available at [http://hoora.dev](http://hoora.dev)
 
-    - I'm practicing **Bootstrap**
+        - Know about my experiences [https://hoorasadat.github.io/React-Resume/](https://hoorasadat.github.io/React-Resume/)
 
-    - My portfolio is available at [http://hoora.dev](http://hoora.dev)
+        - 👧🏽 Pronouns: **She/Her**
 
-    - Know about my experiences [https://hoorasadat.github.io/React-Resume/](https://hoorasadat.github.io/React-Resume/)
+        - ⚡ Fun fact **I have toddler twins.**
+    </p>
+</div>
 
-    - 👧🏽 Pronouns: **She/Her**
+<br/>
 
-    - ⚡ Fun fact **I have toddler twins.**
-</p>
 <h3 >Skills</h3>
-<img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hoorasadat&show_icons=true&locale=en&layout=compact" alt="hooramirsanei"
-/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hoorasadat&show_icons=true&locale=en&layout=compact" alt="hooramirsanei"
+    />
 
-<table>
+    <table>
   <tr>
     <th>Programming Languages</th>
     <th>Libraries & Frameworks</th>
@@ -168,6 +172,9 @@
     </tr>
 </table>
 <hr/>
+</div>
+
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
