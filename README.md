@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;">
     <div>
         <strong>
             HI, &#x1F44B; I'M HOORA!
