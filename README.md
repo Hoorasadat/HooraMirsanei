@@ -6,30 +6,26 @@
         </p>
         <img align="right" width="48%" src="./img/gif.gif" alt="Hoora's Gif">
     </div>
-</div>
-
-<br/>
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <br/>
     <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
         <img align="right" width="400"  align="center"
             src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
         />
-        <p align="left" style="width: 48%;">
+        <p align="left" style="width: 48%;" >
             - 🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
-
+            <br/>
             - 🚀 I’m well experienced with **React**
-
+            <br/>
             - 🧠 I’m well informed about **ASP.NET Core MVC**
-
+            <br/>
             - 🏋️‍♂️ I'm practicing **Bootstrap**
-
-            - 👨‍💻 My portfolio is available at [http://hoora.dev](http://hoora.dev)
-
-            - 📄 Know about my experiences [https://hoorasadat.github.io/React-Resume/](https://hoorasadat.github.io/React-Resume/)
-
+            <br/>
+            - 👨‍💻 My portfolio is available at http://hoora.dev
+            <br/>
+            - 📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
+            <br/>
             - 👧🏽 Pronouns: **She/Her**
-
+            <br/>
             - ⚡ Fun fact **I have toddler twins.**
         </p>
     </div>
