@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; wrap: nowrap; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
     <div>
         <strong>
             HI, &#x1F44B; I'M HOORA!
@@ -8,7 +8,7 @@
         </strong>
     </div>
     <div style="align: center;">
-        <img width=auto src="./img/gif.gif" alt="Hoora's Gif">
+        <img style="margin: 0 auto; display: block;" width="50%" height="50%" src="./img/gif.gif" alt="Hoora's Gif">
     </div>
 </div>
 
