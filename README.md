@@ -12,21 +12,35 @@
             src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
         />
         <p align="left" style="width: 48%;" >
-            - 🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
+            <ul>
+                <li>
+                    🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
+                </li>
             <br/>
-            - 🚀 I’m well experienced with **React**
+            <li>
+                🚀 I’m well experienced with **React**
+            </li>
             <br/>
-            - 🧠 I’m well informed about **ASP.NET Core MVC**
+            <li>
+                🧠 I’m well informed about **ASP.NET Core MVC**
+            </li>
             <br/>
-            - 🏋️‍♂️ I'm practicing **Bootstrap**
+            <li>
+                🏋️‍♂️ I'm practicing **Bootstrap**
+            </li>
             <br/>
-            - 👨‍💻 My portfolio is available at http://hoora.dev
+            <li>
+                👨‍💻 My portfolio is available at http://hoora.dev
+            </li>
             <br/>
-            - 📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
+             <li>
+                📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
+            </li>
             <br/>
-            - 👧🏽 Pronouns: **She/Her**
+             <li>
+                ⚡ Fun fact **I have toddler twins.**
+            </li>
             <br/>
-            - ⚡ Fun fact **I have toddler twins.**
         </p>
     </div>
 </div>
