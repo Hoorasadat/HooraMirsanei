@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div>
     <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
         <p align="left" style="width: 48%;">
             HI, &#x1F44B; I'M HOORA!
