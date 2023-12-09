@@ -1,11 +1,6 @@
-<iframe
-    src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen
->
-</iframe>
-<p>
-    <a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a>
-</p>
-
+<img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBncm54MHg1bTZlMnpkbmFveWNoaHo2Y3hmZTdmeXlpbzNkeTJ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"
+/>
 
 <br/>
 
