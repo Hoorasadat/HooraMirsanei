@@ -1,12 +1,12 @@
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div style="flex: 1; width: 48%;">
-        <p align="left">
+    <div align="left">
+        <p>
             HI, &#x1F44B; I'M HOORA!
             Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
         </p>
     </div>
-    <div style="flex: 1; width: 48%;">
-        <img align="right" width="100%" src="./img/gif.gif" alt="Hoora's Gif">
+    <div align="right">
+        <img width="100%" src="./img/gif.gif" alt="Hoora's Gif">
     </div>
 </div>
 
@@ -24,15 +24,15 @@
             </li>
         <br/>
         <li>
-            🚀 I’m well experienced with **React**
+            🚀 I’m well experienced with <strong>React</strong>
         </li>
         <br/>
         <li>
-            🧠 I’m well informed about **ASP.NET Core MVC**
+            🧠 I’m well informed about <strong>ASP.NET Core MVC</strong>
         </li>
         <br/>
         <li>
-            🏋️‍♂️ I'm practicing **Bootstrap**
+            🏋️‍♂️ I'm practicing <strong>Bootstrap</strong>
         </li>
         <br/>
         <li>
@@ -43,8 +43,8 @@
             📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
         </li>
         <br/>
-            <li>
-            ⚡ Fun fact **I have toddler twins.**
+        <li>
+            ⚡ Fun fact <strong>I have toddler twins!</strong>
         </li>
         <br/>
     </p>
