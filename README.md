@@ -2,8 +2,7 @@
     HI, &#x1F44B; I'M HOORA!
     Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
 </p>
-<h3 >Skills</h3>
-<img align="right"
+<img align="right" width="400"  align="center
     src="./img/gif.gif"
 />
 
