@@ -8,7 +8,7 @@
         </strong>
     </div>
     <div style="align: center;">
-        <img style="margin: 0 auto; display: block;" width="50%" height="50%" src="./img/gif.gif" alt="Hoora's Gif">
+        <img width=auto src="./img/gif.gif" alt="Hoora's Gif">
     </div>
 </div>
 
