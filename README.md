@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
     <p align="left" width="400">
         HI, &#x1F44B; I'M HOORA!
         Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
@@ -13,7 +13,7 @@
         src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
     />
     <p align="left">
-        - I’m currently working on [my new portfolio](https://github.com/Hoorasadat/hoora-portfolio)
+        - I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
 
         - I’m well experienced with **React**
 
