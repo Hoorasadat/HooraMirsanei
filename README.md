@@ -1,10 +1,15 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
-    <p align="left" style="width: 48%;" >
-        HI, &#x1F44B; I'M HOORA!
-        Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
-    </p>
-    <img align="right" width="48%" src="./img/gif.gif" alt="Hoora's Gif">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; width: 100%;">
+    <div style="width: 48%;">
+        <p align="left">
+            HI, &#x1F44B; I'M HOORA!
+            Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
+        </p>
+    </div>
+    <div style="width: 48%;">
+        <img align="right" width="100%" src="./img/gif.gif" alt="Hoora's Gif">
+    </div>
 </div>
+
 
 <br/>
 
