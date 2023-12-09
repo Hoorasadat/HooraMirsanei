@@ -6,7 +6,7 @@
         </p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: space-between;">
-        <img  width="100%" src="./img/gif.gif" alt="Hoora's Gif">
+        <img  width="50%" src="./img/gif.gif" alt="Hoora's Gif">
     </div>
 </div>
 
