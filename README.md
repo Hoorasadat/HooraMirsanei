@@ -1,48 +1,46 @@
-<div>
-    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
-        <p align="left" style="width: 48%;">
-            HI, &#x1F44B; I'M HOORA!
-            Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
-        </p>
-        <img align="right" width="48%" src="./img/gif.gif" alt="Hoora's Gif">
-    </div>
-    <br/>
-    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
-        <img align="right" width="48%"  align="center"
-            src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
-        />
-        <p align="left" style="width: 48%;" >
-            <ul>
-                <li>
-                    🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
-                </li>
-            <br/>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+    <p align="left" style="width: 48%;">
+        HI, &#x1F44B; I'M HOORA!
+        Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
+    </p>
+    <img align="right" width="48%" src="./img/gif.gif" alt="Hoora's Gif">
+</div>
+<br/>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+    <!-- <img align="right" width="48%"  align="center"
+        src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora"
+    /> -->
+    <p align="left" style="width: 48%;" >
+        <ul>
             <li>
-                🚀 I’m well experienced with **React**
+                🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
             </li>
-            <br/>
+        <br/>
+        <li>
+            🚀 I’m well experienced with **React**
+        </li>
+        <br/>
+        <li>
+            🧠 I’m well informed about **ASP.NET Core MVC**
+        </li>
+        <br/>
+        <li>
+            🏋️‍♂️ I'm practicing **Bootstrap**
+        </li>
+        <br/>
+        <li>
+            👨‍💻 My portfolio is available at http://hoora.dev
+        </li>
+        <br/>
             <li>
-                🧠 I’m well informed about **ASP.NET Core MVC**
-            </li>
-            <br/>
+            📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
+        </li>
+        <br/>
             <li>
-                🏋️‍♂️ I'm practicing **Bootstrap**
-            </li>
-            <br/>
-            <li>
-                👨‍💻 My portfolio is available at http://hoora.dev
-            </li>
-            <br/>
-             <li>
-                📄 Know about my experiences https://hoorasadat.github.io/React-Resume/
-            </li>
-            <br/>
-             <li>
-                ⚡ Fun fact **I have toddler twins.**
-            </li>
-            <br/>
-        </p>
-    </div>
+            ⚡ Fun fact **I have toddler twins.**
+        </li>
+        <br/>
+    </p>
 </div>
 
 <br/>
