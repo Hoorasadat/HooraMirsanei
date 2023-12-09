@@ -1,12 +1,12 @@
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div align="left">
+    <div style="display: flex; flex-direction: column; justify-content: space-between;">
         <p>
             HI, &#x1F44B; I'M HOORA!
             Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
         </p>
     </div>
-    <div align="right">
-        <img width="100%" src="./img/gif.gif" alt="Hoora's Gif">
+    <div style="display: flex; flex-direction: column; justify-content: space-between;">
+        <img  width="100%" src="./img/gif.gif" alt="Hoora's Gif">
     </div>
 </div>
 
