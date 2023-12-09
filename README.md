@@ -1,34 +1,38 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-    <p align="left" width="400">
-        HI, &#x1F44B; I'M HOORA!
-        Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
-    </p>
-    <img align="right" width="400" src="./img/gif.gif" alt="Hoora's Gif">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+        <p align="left" style="width: 48%;">
+            HI, &#x1F44B; I'M HOORA!
+            Calgary based software developer who is passionate about crafting innovative and efficient solutions. I specialize in designing, coding, and testing software applications, turning ideas into functional and user-friendly products. Collaboration is at the core of my work, as I engage with cross-functional teams to ensure the successful development and delivery of projects.
+        </p>
+        <img align="right" width="48%" src="./img/gif.gif" alt="Hoora's Gif">
+    </div>
 </div>
 
 <br/>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-    <img align="right" width="400"  align="center"
-        src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
-    />
-    <p align="left">
-        - I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+        <img align="right" width="400"  align="center"
+            src="https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3" alt="Hoora](https://github-profile-trophy.vercel.app/?username=hoorasadat&theme=nord&title=Stars&title=Commits&title=MultiLanguage&title=Repositories&title=Followers&title=PullRequest&column=3)"
+        />
+        <p align="left" style="width: 48%;">
+            - 🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
 
-        - I’m well experienced with **React**
+            - 🚀 I’m well experienced with **React**
 
-        - I’m well informed about **ASP.NET Core MVC**
+            - 🧠 I’m well informed about **ASP.NET Core MVC**
 
-        - I'm practicing **Bootstrap**
+            - 🏋️‍♂️ I'm practicing **Bootstrap**
 
-        - My portfolio is available at [http://hoora.dev](http://hoora.dev)
+            - 👨‍💻 My portfolio is available at [http://hoora.dev](http://hoora.dev)
 
-        - Know about my experiences [https://hoorasadat.github.io/React-Resume/](https://hoorasadat.github.io/React-Resume/)
+            - 📄 Know about my experiences [https://hoorasadat.github.io/React-Resume/](https://hoorasadat.github.io/React-Resume/)
 
-        - 👧🏽 Pronouns: **She/Her**
+            - 👧🏽 Pronouns: **She/Her**
 
-        - ⚡ Fun fact **I have toddler twins.**
-    </p>
+            - ⚡ Fun fact **I have toddler twins.**
+        </p>
+    </div>
 </div>
 
 <br/>
