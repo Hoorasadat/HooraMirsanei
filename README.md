@@ -25,7 +25,7 @@
         </li>
         <br/>
         <li>
-            👨‍💻 My portfolio is available at http://hoora.dev
+            👨‍💻 My portfolio is available at https://hoora.dev
         </li>
         <br/>
             <li>
