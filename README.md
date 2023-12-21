@@ -9,7 +9,7 @@
     <p align="left" style="width: 48%;" >
         <ul>
             <li>
-                🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="blank">my new portfolio</a>
+                🖥️ I’m currently working on <a href="https://github.com/Hoorasadat/hoora-portfolio" target="_blank">my new portfolio</a>
             </li>
         <br/>
         <li>
